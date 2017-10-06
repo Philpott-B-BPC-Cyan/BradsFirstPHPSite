@@ -15,7 +15,6 @@ This is a Header.
 
 </h1>
 
-This is some text
   
   Some Programming languages:
   <ul>
