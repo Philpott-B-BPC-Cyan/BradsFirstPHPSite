@@ -15,6 +15,9 @@ This is a Header.
 
 </h1>
 
+  <?php
+echo "First time PHP.";
+?>
   
   Some Programming languages:
   <ul>
@@ -22,12 +25,8 @@ This is a Header.
     <li>Perl</li>
     <li>Python</li>
   </ul>
-
-<?php
-
-echo "First time PHP.";
-
-?>
+  
+  
 <table>  
   <tr>
   <th>Server Scripts</th>
@@ -48,9 +47,9 @@ echo "First time PHP.";
   </tr>
   
    <tr>  
-   <th>Quick to load</th>   
-   <th> </th>  
-   <th>More code the longer it takes to load</th>        
+   <td>Quick to load</th>   
+   <td> </th>  
+   <td>More code the longer it takes to load</th>        
    </tr>  
 </table>
    
