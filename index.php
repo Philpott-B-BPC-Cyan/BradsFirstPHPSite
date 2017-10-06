@@ -24,17 +24,20 @@ echo "First time PHP.";
 ?>
 <table>  
   <tr>
-  <th>Server Scripts</th>    
+  <th>Server Scripts</th>
+   <th> </th>
   <th>Client Scripts</th>      
   </tr>  
   
   <tr>    
-  <td>Perl</td>    
+  <td>Perl</td>
+    <th> </th>
   <td> HTML</td>      
   </tr> 
   
   <tr>      
-  <td>PHP</td>     
+  <td>PHP</td>
+    <th> </th>
   <td> CSS </td>        
   </tr>
 </table>
