@@ -17,7 +17,7 @@ This is a Header.
 
 This is some text
 
-<? php
+<?php
 
 echo "First time PHP.";
 
