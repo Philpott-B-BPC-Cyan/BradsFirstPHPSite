@@ -22,7 +22,23 @@ This is some text
 echo "First time PHP.";
 
 ?>
-
+<table>  
+  <tr>
+  <th>Server Scripts</th>    
+  <th>Client Scripts</th>      
+  </tr>  
+  
+  <tr>    
+  <td>Perl</td>    
+  <td> HTML</td>      
+  </tr> 
+  
+  <tr>      
+  <td>PHP</td>     
+  <td> CSS </td>        
+  </tr>
+</table>
+   
 
 </Body>
 </HTML>
