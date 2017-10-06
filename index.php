@@ -16,6 +16,13 @@ This is a Header.
 </h1>
 
 This is some text
+  
+  Some Programming languages:
+  <ul>
+    <li>PHP</li>
+    <li>Perl</li>
+    <li>Python</li>
+  </ul>
 
 <?php
 
@@ -30,16 +37,22 @@ echo "First time PHP.";
   </tr>  
   
   <tr>    
-  <td>Perl</td>
+  <td>Alwasy updating</td>
     <th> </th>
-  <td> HTML</td>      
+  <td> Static </td>      
   </tr> 
   
   <tr>      
-  <td>PHP</td>
+  <td>Witholds code</td>
     <th> </th>
-  <td> CSS </td>        
+  <td> Is exposed to be manipulated </td>        
   </tr>
+  
+   <tr>  
+   <th>Quick to load</th>   
+   <th> </th>  
+   <th>More code the longer it takes to load</th>        
+   </tr>  
 </table>
    
 
